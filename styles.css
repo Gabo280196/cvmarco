@@ -194,7 +194,7 @@ body {
     text-decoration: none;
     background-color: var(--bg-color);
     border: 1px solid var(--border-color);
-    padding: 8px 16px;
+    padding: 8px 16px; /*altura anchura */
     border-radius: 8px;
     font-size: 0.9rem;
     transition: border-color 0.2s ease;
@@ -421,6 +421,11 @@ footer {
 .modal-text-container h4 { font-size: 1.2rem; color: var(--accent); margin-bottom: 10px; }
 .modal-text-container p { font-size: 0.9rem; color: var(--text-secondary); line-height: 1.5; }
 
-@media (max-width: 768px) {
+@media (max-width: 768px) { /*Está es la medida que se usará para pantallas pequeñas como celulares y tablets */
     .modal-body { flex-direction: column; }
+    .contact-item { 
+        display: inline-block !important; 
+        margin-left: 0px !important;
+        margin-top: 10px !important;
+    }
 }
