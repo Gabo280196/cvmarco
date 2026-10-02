@@ -1,0 +1,301 @@
+{
+    "config": {
+        "tema": {
+            "bg-color": "#0f172a",
+            "card-bg": "#1e293b",
+            "accent": "#38bdf8",
+            "text-primary": "#f8fafc",
+            "text-secondary": "#94a3b8",
+            "border-color": "#334155"
+        },
+        "orden": ["sobreMi", "portafolio", "experiencia", "educacion", "habilidades", "contacto"]
+    },
+
+    "perfil": {
+        "foto": "images/foto-perfil-2.jpg",
+        "badge": "Disponible para nuevos proyectos",
+        "nombre": "Marco Funes",
+        "titular": "Especialista en Marketing Digital, Desarrollo de Software, Transformación Digital para Empresas y Business Process Management",
+        "descripcion": "Apasionado por crear soluciones eficientes, optimizar procesos y desarrollo continuo. Experiencia sólida en gestión, proyectos y tecnología."
+    },
+
+    "sobreMi": {
+        "titulo": "Perfil Profesional",
+        "texto": "Profesional con más de 6 años de trayectoria en el ecosistema digital, articulando estrategia comercial, desarrollo tecnológico y gestión operativa. Especializado en la transformación digital de empresas mediante el diseño de arquitecturas web, automatización de flujos de trabajo e integración de herramientas CRM y bases de datos para optimizar la eficiencia del negocio. Destaco por mi alta capacidad autodidacta, visión analítica y liderazgo en proyectos interdisciplinarios. Mi meta profesional es seguir impulsando el crecimiento escalable de organizaciones mediante la innovación tecnológica continua, la optimización de procesos (BPM) y la implementación de soluciones digitales de alto impacto."
+    },
+
+    "portafolio": {
+        "titulo": "Portafolio de Proyectos",
+        "items": [
+            {
+                "titulo": "Portafolio de Proyectos en Desarrollo y Gestión Web",
+                "descripcion": "Conoce mis trabajos como gestor de proyectos y desarrollador web",
+                "tipo": "link",
+                "url": "https://app.notion.com/p/PORTAFOLIO-DE-DESARROLLO-Y-GESTI-N-WEB-MARCO-FUNES-3d9e64d969d5806bbd29e4a83fd8a414",
+                "textoBoton": "Click aquí para ver proyectos"
+            },
+            {
+                "titulo": "Portafolio de Proyectos en Marketing y Transformación Digital",
+                "descripcion": "Conoce mis trabajos como gestor de proyectos en marketing y transformación digital para empresas",
+                "tipo": "link",
+                "url": "https://app.notion.com/p/PORTAFOLIO-DESARROLLO-GESTI-N-MARKETING-Y-TRANSFORMACI-N-DIGITAL-MARCO-FUNES-3d9e64d969d5800a804eec357e3ecad7",
+                "textoBoton": "Click aquí para ver proyectos"
+            },
+            {
+                "titulo": "Portafolio de Diseño Gráfico",
+                "descripcion": "Conoce mis trabajos de diseño gráfico",
+                "tipo": "link",
+                "url": "https://www.behance.net/marcofunesb/projects",
+                "textoBoton": "Click aquí para ver diseños"
+            }
+        ]
+    },
+
+    "experiencia": {
+        "titulo": "Experiencia Laboral",
+        "items": [
+            {
+                "cargo": "Digital Project Manager",
+                "empresa": "Garden Natura S.A.C",
+                "inicio": "2020-01",
+                "fin": "2026-09",
+                "funciones": [
+                    {
+                        "titulo":"Transformación Digital & Procesos",
+                        "detalle": "Diseño, desarrollo y ejecución de los procesos organizacionales y digitales de la empresa, optimizando la atención al cliente, los flujos de ventas y la proyección de crecimiento comercial."
+                    },
+                    {
+                        "titulo": "Desarrollo Web & Sistemas a Medida",
+                        "detalle": "Gestión y desarrollo del sitio web corporativo, junto con la implementación de un sistema a medida para la reserva y gestión de citas de tratamientos faciales."
+                    },
+                    {
+                        "titulo": "Estrategia CRM & Inbound Marketing",
+                        "detalle": "Integración y administración del CRM corporativo para la gestión centralizada de la cartera de clientes, automatizando campañas masivas de remarketing e Inbound Marketing."
+                    },
+                    {
+                        "titulo": "Marketing 360° & Ads",
+                        "detalle": "Planeamiento y ejecución de campañas de publicidad digital (ADS) en redes sociales, administrando la parrilla de contenidos para maximizar el posicionamiento de marca y generar leads cualificados para la fuerza de ventas."
+                    },
+                    {
+                        "titulo": "Producción Audiovisual & Diseño",
+                        "detalle": "Creación de piezas gráficas y contenido audiovisual utilizando Adobe Illustrator, Photoshop y Filmora."
+                    },
+                    {
+                        "titulo": "Gestión de Alianzas B2B",
+                        "detalle": "Coordinación y formalización de alianzas estratégicas corporativas para la realización de eventos de salud y bienestar dirigidos al talento humano de empresas aliadas."
+                    }
+                ]
+            },
+            {
+                "cargo": "Digital Project Manager",
+                "empresa": "MDN HATUN S.A.C.",
+                "inicio": "2022-07",
+                "fin": "2023-03",
+                "funciones": [
+                    {
+                        "titulo":"Lanzamiento y Gestión de Plataformas Web",
+                        "detalle": "Dirección integral del plan estratégico digital para el lanzamiento de plataformas a medida orientadas al transporte, alquiler y venta de maquinaria pesada."
+                    },
+                    {
+                        "titulo": "Estrategia Publicitaria Multicanal (Ads)",
+                        "detalle": "Diseño y ejecución de campañas de pauta digital de alto rendimiento en Google Ads, Facebook Ads y LinkedIn Ads para potenciar la interacción de usuarios y la captación de clientes."
+                    },
+                    {
+                        "titulo": "Optimización UX y Analítica Web",
+                        "detalle": "Monitoreo diario del tráfico, interacciones y métricas clave mediante Google Analytics (GA3 y GA4), Semrush y Facebook Business, coordinando mejoras de usabilidad con el área de sistemas."
+                    },
+                    {
+                        "titulo": "Posicionamiento SEO",
+                        "detalle": "Implementación de estrategias SEO efectivas para mejorar la visibilidad orgánica de múltiples páginas del sitio web y posicionar a la empresa en los primeros resultados de búsqueda en Perú."
+                    },
+                    {
+                        "titulo": "Diseño Gráfico Publicitario",
+                        "detalle": "Creación y gestión de piezas gráficas y propuestas visuales de alto impacto enfocadas en las campañas comerciales y de conversión."
+                    }
+                ]
+            },
+            {
+                "cargo": "PHP Web Developer",
+                "empresa": "4E FRANQUICIAS S.A.C.",
+                "inicio": "2018-07",
+                "fin": "2019-03",
+                "funciones": [
+                    {
+                        "titulo":"Desarrollo de Sistema ERP (Sector A&B)",
+                        "detalle": "Co-desarrollo e implementación modular de un sistema ERP a medida para el rubro de Alimentos y Bebidas, alineando funcionalidades con las exigencias operativas y del mercado."
+                    },
+                    {
+                        "titulo": "Arquitectura Backend & MVC",
+                        "detalle": "Programación en PHP utilizando el framework CodeIgniter bajo el patrón de arquitectura Modelo-Vista-Controlador (MVC) para garantizar los estándares de mantenibilidad y escalabilidad del código."
+                    },
+                    {
+                        "titulo": "Desarrollo Frontend & Asincronía",
+                        "detalle": "Creación de interfaces dinámicas e interactivas mediante JavaScript, jQuery y peticiones asíncronas con AJAX para optimizar la experiencia de usuario sin recargas de página."
+                    },
+                    {
+                        "titulo": "Gestión y Modelado de Bases de Datos",
+                        "detalle": "Diseño, administración y optimización de bases de datos relacionales en MySQL, utilizando Navicat para la gestión avanzada de estructuras y consultas."
+                    }
+                ]
+            },
+            {
+                "cargo": "Especialista Técnico en Marketing Digital & Business Process Management (BPM)",
+                "empresa": "Open Tecnologies (Grupo Infotec)",
+                "inicio": "2017-07",
+                "fin": "2018-03",
+                "funciones": [
+                    {
+                        "titulo":"Implementación & Consultoría de CRM",
+                        "detalle": "Adaptación, configuración y consultoría interna de un CRM empresarial, centralizando la cartera de clientes y liderando capacitaciones para el uso efectivo del sistema."
+                    },
+                    {
+                        "titulo": "Integración de Sistemas & Web Services",
+                        "detalle": "Supervisión y seguimiento de integraciones vía APIs/Web Services entre el sitio Web E-commerce, el sistema ERP corporativo y la plataforma CRM para la sincronización de datos operativos."
+                    },
+                    {
+                        "titulo": "Automatización & Marketing Omnicanal",
+                        "detalle": "Configuración de herramientas de email marketing (Mailchimp), correo corporativo (Outlook) y telefonía VoIP integrados directamente al CRM para potenciar campañas de Inbound y Content Marketing."
+                    },
+                    {
+                        "titulo": "Analítica, Bots & Tracking",
+                        "detalle": "Implementación de píxeles de seguimiento y bots automatizados para Facebook y la web, analizando el comportamiento del usuario para optimizar la conversión y la productividad comercial."
+                    },
+                    {
+                        "titulo": "Estrategia Digital 360° & SEO",
+                        "detalle": "Gestión integral de presencia en redes sociales, medios masivos digitales y estrategias de posicionamiento SEO para mejorar la visibilidad orgánica de la empresa."
+                    }
+                ]
+            },
+            {
+                "cargo": "Auxiliar de Sistemas, Marketing & Desarrollo de Software",
+                "empresa": "Creaciones Zuriel SAC",
+                "inicio": "2017-02",
+                "fin": "2017-06",
+                "funciones": [
+                    {
+                        "titulo":"Soporte en Desarrollo Web & Software",
+                        "detalle": "Apoyo en la maquetación y desarrollo del sitio web corporativo, participando además en la creación y soporte de aplicaciones de escritorio para la gestión interna."
+                    },
+                    {
+                        "titulo": "Gestión de Bases de Datos de Productos",
+                        "detalle": "Administración y mantenimiento directo de la base de datos del inventario de productos de la empresa, garantizando la integridad de la información comercial."
+                    },
+                    {
+                        "titulo": "Gestión de Marketing Digital",
+                        "detalle": "Manejo de las estrategias iniciales de presencia digital y canales de comunicación online para la marca."
+                    },
+                    {
+                        "titulo": "Soporte Técnico e Infraestructura TI",
+                        "detalle": "Mantenimiento, diagnóstico y soporte técnico continuo a los equipos informáticos y red de la empresa."
+                    }
+                ]
+            }
+        ]
+
+    },
+    "educacion": {
+        "titulo": "Educación & Certificaciones",
+        "estudios": [
+            {
+                "titulo": "Titulación en Desarrollo de Software",
+                "institucion": "SENATI",
+                "inicio": "2016",
+                "fin": "2018"
+            }
+        ],
+        "gruposCertificados": [
+            {
+                "plataforma": "Plataformas Internacionales",
+                "inicio": "2016",
+                "fin": null,
+                "certificados": [
+                    {
+                        "titulo": "Certificado de Social Media entregada por Hubspot",
+                        "imagen": "images/social-media.png",
+                        "descripcion": "Esta especialización obtenida permite complementar mis conocimientos en Social Media, plantear mejores estrategias y planificar todos los casos posibles para poder generar oportunidad de negocios en la situación que sea."
+                    },
+                    {
+                        "titulo": "Certificado Fundamentos Desarrollo de Aplicaciones Móviles",
+                        "imagen": "images/desarrollo-app-moviles.png",
+                        "descripcion": "Especialización que contribuyó a poder gestionar un plan de acción para manejar un grupo y organizar proyectos de desarrollo de APP a medida de los requerimientos del cliente."
+                    },
+                    {
+                        "titulo": "Certificado E-commerce",
+                        "imagen": "images/comercio-electronico.png",
+                        "descripcion": "Esta especialización contribuyó a mejorar la perspectiva de cómo mejora el comercio electrónico las ventas finales, cómo aplicar estrategias de atracción, convencimiento, cierre y fidelización."
+                    },
+                    {
+                        "titulo": "Certificado POO PHP Intermedio",
+                        "imagen": "images/PHP-2.png",
+                        "descripcion": "Esta especialización aportó mucho a construir el perfil al que hoy en día he llegado de Digital Project Manager."
+                    },
+                    {
+                        "titulo": "Certificado POO PHP Avanzado",
+                        "imagen": "images/PHP-3.png",
+                        "descripcion": "Esta especialización aportó mucho a construir el perfil al que hoy en día he llegado de Digital Project Manager."
+                    },
+                    {
+                        "titulo": "Certificado Fundamentos de Marketing Digital",
+                        "imagen": "images/fundamentos-mk.png",
+                        "descripcion": "Esta Especialización en Marketing Digital consolidó todos los fundamentos que ya manejaba como Digital Project Manager."
+                    },
+                    {
+                        "titulo": "Certificado Transformación Digital",
+                        "imagen": "images/transformacion-digital.png",
+                        "descripcion": "Esta especialización contribuyó a poner en práctica los procesos más factibles para transformar una empresa tradicional."
+                    },
+                    {
+                        "titulo": "Certificado Ethical Hacking",
+                        "imagen": "images/Ehical-Hacking.png",
+                        "descripcion": "Aportó a fortalecer el perfil de Digital Project Manager, agregando seguridad en la gestión y estructuración de desarrollos web."
+                    }
+
+                ]
+            }
+        ]
+    },
+    "habilidades": {
+        "titulo": "Habilidades, Conocimientos & Herramientas Aprendidas",
+        "grupos": [
+            {
+                "titulo": "Manejo de Herramientas Publicitarias para RRSS",
+                "etiquetas": ["Facebook/Meta Ads", "Instagram Ads", "TikTok Ads", "Google Ads", "LinkedIn Ads", "WhatsApp Business"]
+            },
+            {
+                "titulo": "Lenguajes y Herramientas de Programación",
+                "etiquetas": ["PHP", "HTML5 / CSS3", "Bases de Datos / MySQL", "JavaScript / jQuery / AJAX", "CodeIgniter / Bootstrap", "Git / GitHub"]
+            },
+            {
+                "titulo": "Gestores de Contenido Web (CMS)",
+                "etiquetas": ["WordPress", "PrestaShop", "Mi Tienda"]
+            },
+            {
+                "titulo": "Herramientas de Medición & Analítica",
+                "etiquetas": ["Google Analytics 4 (GA4)", "Google Search Console", "Semrush"]
+            },
+            {
+                "titulo": "Implementación de CRM",
+                "etiquetas": ["HubSpot", "Zoho CRM", "Teamleader"]
+            },
+            {
+                "titulo": "Herramientas de Diseño Gráfico & Audiovisual",
+                "etiquetas": ["Adobe Illustrator", "Adobe Photoshop", "Filmora", "CapCut"]
+            },
+            {
+                "titulo": "Habilidades Adicionales",
+                "etiquetas": ["Excel Intermedio / Avanzado", "Ensamblaje y Mantenimiento de PC", "Business Process Management (BPM)"]
+            }
+        ]
+    },
+    "contacto": {
+        "titulo": "Contacto",
+        "texto": "¿Te interesa mi perfil? Ponte en contacto conmigo directamente:",
+        "items": [
+            { "tipo": "email", "valor": "jbnayubel9@gmail.com" },
+            { "tipo": "linkedin", "valor": "https://www.linkedin.com/in/marco-funes-7b000819b/" },
+            { "tipo": "github", "valor": "https://github.com/Gabo280196"},
+            { "tipo": "whatsapp", "prefijo": "51", "numero": "917275368" }
+        ]
+}
+
+}
